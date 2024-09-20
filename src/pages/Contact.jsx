@@ -16,7 +16,7 @@ const Contact = () => {
           src={assets.contact_image}
           alt=""
         />
-        <div className="flex flex-col justify-center gap-6">
+        <div className="flex flex-col justify-center items-start gap-6">
           <p className="font-semibold text-lg text-gray-600">OUR OFFICE</p>
           <p className="text-gray-500">
             00000 Willms Station <br /> Suite 000, Washington, USA
